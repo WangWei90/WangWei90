@@ -2,6 +2,8 @@
 
 详细内容
 
+https://github.com/WangWei90?tab=repositories
+
 ### 学术算法
 
 - ww3dprint
