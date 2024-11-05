@@ -8,7 +8,21 @@
 
 温度-气液两相流耦合并行计算程序
 
+- wwcalc
+- wwfinding
+- wwguiding
+
 ### 桌面程序
+
+- ggfocus
+- ggclick
+- ggdiff
+- ggshelf
+- ggworkspace
+- ggbank1
+- ggbank2
+- ggbank3
+- ggbank4
 
 ### 网络程序
 
