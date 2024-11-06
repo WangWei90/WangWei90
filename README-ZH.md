@@ -5,12 +5,6 @@
 https://github.com/WangWei90?tab=repositories
 
 ### 学术算法
-
-- ww3dprint
-- wwml
-- wwcalc
-- wwfinding
-- wwguiding
   
 稳态法、瞬态法、周期法渗透测量程序
 
@@ -22,7 +16,15 @@ https://github.com/WangWei90?tab=repositories
 
 不同计算软件之间的数据对齐，数据可视化，进程间通信
 
-### 桌面程序
+
+### 科学计算桌面程序
+- ww3dprint
+- wwml
+- wwcalc
+- wwfinding
+- wwguiding
+
+### 通用桌面程序
 
 - ggfocus
 - ggclick
@@ -42,8 +44,11 @@ https://github.com/WangWei90?tab=repositories
 
 ### 文本编辑器插件
 
-sublime text插件全垒打
+#### sublime text 插件
+全垒打
 
-Emacs插件
+#### vscode 插件
+
+#### Emacs插件
 
 ### 网络浏览器插件
