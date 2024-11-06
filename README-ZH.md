@@ -5,7 +5,8 @@
 https://github.com/WangWei90?tab=repositories
 
 ### 学术算法
-  
+**归入wwfinding**
+
 稳态法、瞬态法、周期法渗透测量程序
 
 温度-气液两相流耦合并行计算程序
