@@ -9,6 +9,8 @@ https://github.com/WangWei90?tab=repositories
 - 微观流动 孔隙流动 气液两相流
 - 边坡稳定性
 - 振动液化 静态液化
+- 北山龙泰工程
+- 深圳HA渣土场
 
 ### 学术算法
 
