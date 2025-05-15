@@ -17,5 +17,3 @@
 
 ### 网络浏览器插件
 
-growup_wei@qq.com
-weiwang2021@hotmail.com
