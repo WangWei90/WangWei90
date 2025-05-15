@@ -5,7 +5,7 @@
   <a href="./README-EN.md">English</a>
 </p>
 
-王威
+王威( https://wangwei90.github.io/ )
 
 ### 学术算法
 
@@ -18,5 +18,4 @@
 ### 网络浏览器插件
 
 growup_wei@qq.com
-
 weiwang2021@hotmail.com
